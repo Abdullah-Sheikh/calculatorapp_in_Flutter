@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-![GitHub Logo](Capture10.JPG)
+![GitHub Logo](gif1.gif)
 
 
 
